@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ppfg' ;
+    /* funciona nos navegadores Google Chrome, Firefox, Microsoft Edge, Opera e Safari, são compativeis com o formato WOFF, mas pode ser necessário atualizar seu navegador para a versão mais recente.*/
+    src: url('../fontes/powerpuff\ girls\ font.ttf');
+}
+
+@font-face {
+    font-family: 'command';
+    /*TTF é suportado pela maioria dos navegadores mais modernos, menos o internet explorer */
+    src: url('../fontes/Powerpuff.ttf')
+}

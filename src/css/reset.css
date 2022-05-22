@@ -1,0 +1,12 @@
+* {   /* estiliza todos os elementos da página *  */
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box; /* trabalha com as larguras das páginas   */
+}
+
+ul {  /* se tiver lista na página, fica none, sem estilo  */
+    list-style: none;
+}
